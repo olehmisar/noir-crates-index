@@ -1,0 +1,132 @@
+{
+  "address_note": {
+    "owner": "aztecprotocol",
+    "repo": "aztec-packages",
+    "installDirectory": "noir-projects/aztec-nr/address-note",
+    "keywords": ["aztec"]
+  },
+  "authwit": {
+    "owner": "aztecprotocol",
+    "repo": "aztec-packages",
+    "installDirectory": "noir-projects/aztec-nr/authwit",
+    "keywords": ["aztec"]
+  },
+  "aztec": {
+    "owner": "aztecprotocol",
+    "repo": "aztec-packages",
+    "installDirectory": "noir-projects/aztec-nr/aztec",
+    "keywords": ["aztec"]
+  },
+  "compressed_string": {
+    "owner": "aztecprotocol",
+    "repo": "aztec-packages",
+    "installDirectory": "noir-projects/aztec-nr/compressed-string",
+    "keywords": ["aztec"]
+  },
+  "easy_private_state": {
+    "owner": "aztecprotocol",
+    "repo": "aztec-packages",
+    "installDirectory": "noir-projects/aztec-nr/easy-private-state",
+    "keywords": ["aztec"]
+  },
+  "uint_note": {
+    "owner": "aztecprotocol",
+    "repo": "aztec-packages",
+    "installDirectory": "noir-projects/aztec-nr/uint-note",
+    "keywords": ["aztec"]
+  },
+  "value_note": {
+    "owner": "aztecprotocol",
+    "repo": "aztec-packages",
+    "installDirectory": "noir-projects/aztec-nr/value-note",
+    "keywords": ["aztec"]
+  },
+  "noir_rsa": {
+    "owner": "noir-lang",
+    "repo": "noir_rsa",
+    "installDirectory": "lib",
+    "keywords": ["noir"]
+  },
+  "noir_string_search": {
+    "owner": "noir-lang",
+    "repo": "noir_string_search",
+    "keywords": ["noir"]
+  },
+  "noir_sort": {
+    "owner": "noir-lang",
+    "repo": "noir_sort",
+    "keywords": ["noir"]
+  },
+  "noir_json_parser": {
+    "owner": "noir-lang",
+    "repo": "noir_json_parser",
+    "keywords": ["noir"]
+  },
+  "noir_base64": {
+    "owner": "noir-lang",
+    "repo": "noir_base64",
+    "keywords": ["noir"]
+  },
+  "noir_edwards": {
+    "owner": "noir-lang",
+    "repo": "noir-edwards",
+    "keywords": ["noir"]
+  },
+  "noir_bigcurve": {
+    "owner": "noir-lang",
+    "repo": "noir_bigcurve",
+    "keywords": ["noir"]
+  },
+  "sparse_array": {
+    "owner": "noir-lang",
+    "repo": "sparse_array",
+    "keywords": ["noir"]
+  },
+  "mimc": {
+    "owner": "noir-lang",
+    "repo": "mimc",
+    "keywords": ["noir"]
+  },
+  "bignum": {
+    "owner": "noir-lang",
+    "repo": "noir-bignum",
+    "keywords": ["noir"]
+  },
+  "webauthn": {
+    "owner": "olehmisar",
+    "repo": "noir_webauthn",
+    "keywords": ["noir"]
+  },
+  "nodash": {
+    "owner": "olehmisar",
+    "repo": "nodash",
+    "keywords": ["noir"]
+  },
+  "zkemail": {
+    "owner": "zkemail",
+    "repo": "zkemail.nr",
+    "installDirectory": "lib",
+    "keywords": ["noir"]
+  },
+  "plume": {
+    "owner": "distributed-lab",
+    "repo": "noir-plume",
+    "keywords": ["noir"]
+  },
+  "noir_jwt": {
+    "owner": "Envoy-VC",
+    "repo": "noir_jwt",
+    "keywords": ["noir"]
+  },
+  "noir_social_verify": {
+    "owner": "Envoy-VC",
+    "repo": "noir_social_verify",
+    "installDirectory": "lib",
+    "keywords": ["noir"]
+  },
+  "noir_hmac": {
+    "owner": "Envoy-VC",
+    "repo": "noir_hmac",
+    "keywords": ["noir"]
+  }
+}
